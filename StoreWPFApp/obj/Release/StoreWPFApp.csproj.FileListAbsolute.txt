@@ -1,0 +1,3 @@
+C:\Users\Данила\Desktop\.NET\lab1\StoreWPFApp\obj\Release\StoreWPFApp.csproj.AssemblyReference.cache
+C:\Users\Данила\Desktop\.NET\lab1\StoreWPFApp\obj\Release\App.g.cs
+C:\Users\Данила\Desktop\.NET\lab1\StoreWPFApp\obj\Release\StoreWPFApp_MarkupCompile.cache

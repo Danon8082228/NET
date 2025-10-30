@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1590D93D-11DE-4D0E-AFB2-679ABC500BB3}|labs\\Lab1.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\labs\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1590D93D-11DE-4D0E-AFB2-679ABC500BB3}|labs\\Lab1.csproj|solutionrelative:labs\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1590D93D-11DE-4D0E-AFB2-679ABC500BB3}|labs\\Lab1.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\labs\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1590D93D-11DE-4D0E-AFB2-679ABC500BB3}|labs\\Lab1.csproj|solutionrelative:labs\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55EFE3-8609-4E54-8709-39A2DAD41F97}|ConsoleLab2\\Lab2Console.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\consolelab2\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55EFE3-8609-4E54-8709-39A2DAD41F97}|ConsoleLab2\\Lab2Console.csproj|solutionrelative:consolelab2\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55EFE3-8609-4E54-8709-39A2DAD41F97}|ConsoleLab2\\Lab2Console.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\consolelab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55EFE3-8609-4E54-8709-39A2DAD41F97}|ConsoleLab2\\Lab2Console.csproj|solutionrelative:consolelab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C55EFE3-8609-4E54-8709-39A2DAD41F97}|ConsoleLab2\\Lab2Console.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\consolelab2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C55EFE3-8609-4E54-8709-39A2DAD41F97}|ConsoleLab2\\Lab2Console.csproj|solutionrelative:consolelab2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88796A17-DC01-4F07-864C-7FF7DF6033F1}|ConsoleApp\\Lab1Console.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88796A17-DC01-4F07-864C-7FF7DF6033F1}|ConsoleApp\\Lab1Console.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\lab6wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|solutionrelative:lab6wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\lab6wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|solutionrelative:lab6wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\lab6wpf\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|solutionrelative:lab6wpf\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\lab6wpf\\ishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|solutionrelative:lab6wpf\\ishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u043B\u0430\\desktop\\.net\\lab1\\lab6wpf\\lab6wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94ED1819-FAC0-4410-8124-FE5D5234302F}|Lab6Wpf\\Lab6Wpf.csproj|solutionrelative:lab6wpf\\lab6wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\ConsoleLab2\\Shop.cs",
+              "RelativeDocumentMoniker": "ConsoleLab2\\Shop.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\ConsoleLab2\\Shop.cs",
+              "RelativeToolTip": "ConsoleLab2\\Shop.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:17:53.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\ConsoleLab2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleLab2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\ConsoleLab2\\Program.cs",
+              "RelativeToolTip": "ConsoleLab2\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:17:44.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\ConsoleLab2\\Item.cs",
+              "RelativeDocumentMoniker": "ConsoleLab2\\Item.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\ConsoleLab2\\Item.cs",
+              "RelativeToolTip": "ConsoleLab2\\Item.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:17:35.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:17:31.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\labs\\ItemBase.cs",
+              "RelativeDocumentMoniker": "labs\\ItemBase.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\labs\\ItemBase.cs",
+              "RelativeToolTip": "labs\\ItemBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:17:19.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\labs\\Item.cs",
+              "RelativeDocumentMoniker": "labs\\Item.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\labs\\Item.cs",
+              "RelativeToolTip": "labs\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:17:12.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\Shop.cs",
+              "RelativeDocumentMoniker": "Lab6Wpf\\Shop.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\Shop.cs",
+              "RelativeToolTip": "Lab6Wpf\\Shop.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:11:17.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShop.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\IShop.cs",
+              "RelativeDocumentMoniker": "Lab6Wpf\\IShop.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\IShop.cs",
+              "RelativeToolTip": "Lab6Wpf\\IShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:08:17.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lab6Wpf.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\Lab6Wpf.csproj",
+              "RelativeDocumentMoniker": "Lab6Wpf\\Lab6Wpf.csproj",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\Lab6Wpf.csproj",
+              "RelativeToolTip": "Lab6Wpf\\Lab6Wpf.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T21:04:16.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lab6Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lab6Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwJUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:37:36.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab6Wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u043B\u0430\\Desktop\\.NET\\lab1\\Lab6Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "Lab6Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T08:03:59.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

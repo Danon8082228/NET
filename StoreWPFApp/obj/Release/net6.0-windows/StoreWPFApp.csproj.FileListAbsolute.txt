@@ -1,0 +1,5 @@
+C:\Users\Данила\Desktop\.NET\lab1\StoreWPFApp\obj\Release\net6.0-windows\StoreWPFApp.csproj.AssemblyReference.cache
+C:\Users\Данила\Desktop\.NET\lab1\StoreWPFApp\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Данила\Desktop\.NET\lab1\StoreWPFApp\obj\Release\net6.0-windows\StoreWPFApp_MarkupCompile.cache
+C:\Users\Данила\Desktop\.NET\lab1\StoreWPFApp\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\Данила\Desktop\.NET\lab1\StoreWPFApp\obj\Release\net6.0-windows\StoreWPFApp_MarkupCompile.lref
